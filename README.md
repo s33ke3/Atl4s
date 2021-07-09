@@ -1,5 +1,13 @@
 # Atl4s ver1.7 💢
 
+@@@@@Created by@@@@@
+-->Davide Bovio<--                                         &
+-->Vincenzo Digilio<-- 
+
+**with Hacking Team @PGiatasti - Università di Perugia** 
+
+🔥
+
 ----------------------------------Change log. Ver 1.7-------------------------------------
 
 --> Implemented .json to optimize the visualization of the logs of the submitted request
