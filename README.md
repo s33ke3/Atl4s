@@ -2,9 +2,9 @@
 
 **@@@@@Created by@@@@@
 
-**Davide Bovio - Vincenzo Digilio 
+Davide Bovio - Vincenzo Digilio 
 
-**with Hacking Team @PGiatasti - Università di Perugia** 
+with Hacking Team @PGiatasti - Università di Perugia** 
 
 🔥
 
