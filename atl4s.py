@@ -23,16 +23,16 @@ if logFilePath != "":
 
 print("""
 *******************************************************************************************
-&								 ___  __  ______   										  &
-&							    / _ |/ /_/ / / /___										  &
-&							   / __ / __/ /_  _(_-<										  &
-&							  /_/ |_\__/_/ /_//___/	Ver 1.7					      &
-&							  @@@@@Created by@@@@@@										  &
-&							   -->Davide Bovio<--                                         &
-&							 -->Vincenzo Digilio<--  									  &
-&	 							 														  &
-&              **with Hacking Team @PGiatasti - Università di Perugia**					  &
-&								 **BETA VERSION**										  &
+&			    ___  __  ______   	  					  &
+&			   / _ |/ /_/ / / /___		  				  &
+&			  / __ / __/ /_  _(_-<		  				  &
+&			 /_/ |_\__/_/ /_//___/	Ver 1.7	   				  &
+&			  @@@@@Created by@@@@@@		   			          &
+&			   -->Davide Bovio<--              				  &
+&			 -->Vincenzo Digilio<--  	  				  &
+&	 							 			  &
+&              **with Hacking Team @PGiatasti - Università di Perugia**			  &
+&		         								  &
 *******************************************************************************************
 """, file=logFileStream)
 							 
