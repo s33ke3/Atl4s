@@ -79,9 +79,9 @@ N.B The same cycle is repeated (Ver.1.5)
 |||||||||||||||||||||||||||||||||||||SECTIONS|||||||||||||||||||||||||||||||||||||||||||||||||
 
 
-Atl4s.py: Main
+Atl4s.py         --> Main
 
-Atl4s.config: Configuration File
+Atl4s.config     --> Configuration File
 
 functions.py     --> File with the Check functions of the Flag with the regex, and pass them to flag array
 
