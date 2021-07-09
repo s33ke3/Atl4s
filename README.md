@@ -10,15 +10,15 @@ with Hacking Team @PGiatasti - Università di Perugia**
 
 ----------------------------------Change log. Ver 1.7-------------------------------------
 
---> Implemented .json to optimize the visualization of the logs of the submitted request
+--> Implemented .json to optimize logs visualization of the submitted request
 
---> Management of flags via Array
+--> Changed management of flags
 
 --> Added a polling service for sending flags
 
 --> Generated a file to send "flagsToSubmit"
 
---> Added the sleep time for sending the group of flags to the game server
+--> Added the sleep time for sending a "group of flags" to the game server
 
 --> Added sleep time to "SleepServiceSecond" configuration file
 
