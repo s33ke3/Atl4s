@@ -80,9 +80,13 @@ N.B The same cycle is repeated (Ver.1.5)
 
 
 Atl4s.py: Main
+
 Atl4s.config: Configuration File
+
 functions.py     --> File with the Check functions of the Flag with the regex, and pass them to flag array
+
 submitService.py --> File with the Submit functions of the Fleg.
+
 iplist.txt       --> File with the list of ip to attack
 
 
