@@ -4,7 +4,7 @@
 
 Davide Bovio - Vincenzo Digilio 
 
-with Hacking Team 2021 - Università di Perugia** 
+with Università di Perugia** 
 
 🔥
 
